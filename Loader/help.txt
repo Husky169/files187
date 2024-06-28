@@ -1,4 +1,15 @@
-1. Make sure you have WinRar installed - https://www.win-rar.com/download.html
-
-Need more Help?
-- discord.gg/fast-service
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Help Page</title>
+</head>
+<body>
+    <p>1. Make sure you have WinRar installed - <a href="https://www.win-rar.com/download.html" target="_blank">https://www.win-rar.com/download.html</a></p>
+    <p>Need more Help?</p>
+    <ul>
+        <li><a href="https://discord.gg/fast-service" target="_blank">discord.gg/fast-service</a> (open in new tab)</li>
+    </ul>
+</body>
+</html>
